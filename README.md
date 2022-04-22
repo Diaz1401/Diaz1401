@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br />
+[![Diaz1401's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diaz1401)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About Me 🚀
 😄 I’m a newbie Linux Kernel enthusiast on Android device. </br>
-📱 Love messing with Linux Kernel in my [Poco F3!](https://www.gsmarena.com/xiaomi_poco_f3-10758.php). </br>
+📱 Love messing with Linux Kernel in my [Poco F3](https://www.gsmarena.com/xiaomi_poco_f3-10758.php). </br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Diaz1401.Diaz1401)
