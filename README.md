@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 ### About Me 🚀
 😄 I’m a newbie Linux Kernel enthusiast on Android device. </br>
 📱 Love messing with Linux Kernel in my [Poco F3](https://www.gsmarena.com/xiaomi_poco_f3-10758.php). </br>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Diaz1401.Diaz1401)
