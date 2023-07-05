@@ -2,4 +2,7 @@
 
 😄 Linux Kernel enthusiast on [Poco F3](https://www.gsmarena.com/xiaomi_poco_f3-10758.php).</br>
 
-<img src="https://raw.githubusercontent.com/Diaz1401/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+
+<a href="https://github.com/Diaz1401/github-stats">
+<img src="https://raw.githubusercontent.com/Diaz1401/github-stats/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/Diaz1401/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
