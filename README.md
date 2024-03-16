@@ -1,10 +1,8 @@
-Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+**Hey** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
-I'm [Diaz!](https://t.me/Diaznr/) 
+**I'm** [**Diaz!**](https://t.me/Diaznr/) 
 
-😄 Linux Kernel enthusiast on [Poco F3](https://www.gsmarena.com/xiaomi_poco_f3-10758.php).</br>
+**😄 Linux Kernel enthusiast on** [**Poco F3**](https://www.gsmarena.com/xiaomi_poco_f3-10758.php).</br>
 
-
-<a href="https://github.com/Diaz1401/github-stats">
-<img src="https://raw.githubusercontent.com/Diaz1401/github-stats/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/Diaz1401/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+[![Diaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diaz1401&exclude_repo=kernel_xiaomi_sm8250&include_all_commits=true&hide_rank=true&show_icons=true&hide_title=true&number_format=long&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diaz1401&exclude_repo=kernel_xiaomi_sdm845&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
